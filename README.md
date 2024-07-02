@@ -21,18 +21,14 @@ python manage.py runserver
 ```
 
 
-
 # Output
 
 
 ---
-<h1>Visit Live: https://github.com/tanvirpoly/E-commerce_python_django_react</h1>
-
+<h1>Visit Live: https://github.com/tanvirpoly/Article_Website_Python_Django</h1>
 
 
 ---
-
-
 
 <img src="admin.png"
      alt="admin.png"/>
@@ -44,8 +40,6 @@ python manage.py runserver
      alt="Image"/>
 
 ---
-
-
 
 
 
